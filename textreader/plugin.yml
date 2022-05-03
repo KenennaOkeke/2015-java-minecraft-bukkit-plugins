@@ -1,0 +1,9 @@
+name: textreader
+main: textreader
+version: 1.0.0
+commands:
+   textfile:
+      description: Allows you to read a text file
+      usage: /textfile <filename>
+      permission: textfile.use
+      permission-message: You don't have permission to that command.

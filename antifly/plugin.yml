@@ -1,0 +1,9 @@
+name: antifly
+main: antifly
+version: 1.0.0
+commands:
+   antifly:
+      description: Shows the antifly Menu.
+      usage: /antifly
+      permission: antifly.help
+      permission-message: You don't have perms to that command.
